@@ -1,0 +1,18 @@
+/** {
+	border: 1px red solid;
+}
+*/
+
+img {
+	max-width: 100%;
+}
+
+.steps {
+	width: 70%;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+.steps-container {
+
+}
